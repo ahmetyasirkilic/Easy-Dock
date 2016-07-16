@@ -1,0 +1,10 @@
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\bin\Debug\EasyDock.exe.config
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\obj\Debug\EasyDock.csprojResolveAssemblyReference.cache
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\obj\Debug\EasyDock.Dock.resources
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\obj\Debug\EasyDock.Properties.Resources.resources
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\obj\Debug\EasyDock.csproj.GenerateResource.Cache
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\bin\Debug\EasyDock.exe
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\bin\Debug\EasyDock.pdb
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\bin\Debug\Transitions.dll
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\obj\Debug\EasyDock.exe
+c:\users\elnino\documents\visual studio 2015\Projects\EasyDock\EasyDock\obj\Debug\EasyDock.pdb

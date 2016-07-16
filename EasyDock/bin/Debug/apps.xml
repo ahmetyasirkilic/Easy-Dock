@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Applications>
+  <App>
+  <Name>Manycam</Name>
+  <Target-Path>C:\Program Files (x86)\ManyCam\ManyCam.exe</Target-Path>
+  </App>
+  <App>
+  <Name>Google Chrome</Name>
+  <Target-Path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</Target-Path>
+  </App>
+  <App>
+  <Name>GeForce Experience</Name>
+  <Target-Path>C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\LaunchGFExperience.exe</Target-Path>
+  </App>
+  <App>
+  <Name>Eclipse Jee Mars</Name>
+  <Target-Path>C:\Users\elnino\eclipse\jee-mars\eclipse\eclipse.exe</Target-Path>
+  </App>
+  <App>
+  <Name>CCleaner</Name>
+  <Target-Path>C:\Program Files\CCleaner\CCleaner64.exe</Target-Path>
+  </App>
+  <App>
+  <Name>MEGAsync</Name>
+  <Target-Path>C:\Users\elnino\AppData\Local\MEGAsync\MEGAsync.exe</Target-Path>
+  </App>
+  <App>
+  <Name>FileZilla Client</Name>
+  <Target-Path>C:\Program Files\FileZilla FTP Client\filezilla.exe</Target-Path>
+  </App>
+  <App>
+  <Name>Outlook 2016</Name>
+  <Target-Path>C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE</Target-Path>
+  </App>
+  <App>
+  <Name>Visual Studio 2015</Name>
+  <Target-Path>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe</Target-Path>
+  </App>
+   <App>
+  <Name>Photoshop CS6</Name>
+  <Target-Path>C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe</Target-Path>
+  </App>
+  <App></App>
+</Applications>
