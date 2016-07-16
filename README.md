@@ -1,4 +1,4 @@
-# easydock
+# Easy Dock
 Your shortcuts in your dock
 
 ###Expandable up to ten applications
