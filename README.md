@@ -5,6 +5,8 @@ Your shortcuts in your dock
 ![alt tag](https://github.com/manilaorleans/easydock/blob/master/easy-dock-animation.gif)
 
 ### Xml Structure
+> - **Name:** Program name will show tool tip.
+> - **Target-Path:** Program where is the located.
 
 ```xml
 <Applications>
@@ -14,3 +16,4 @@ Your shortcuts in your dock
   </App>
 </Applications>
 ```
+
